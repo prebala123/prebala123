@@ -1,4 +1,4 @@
-## Hi there 👋
+I’m a recent Data Science graduate from UC San Diego with a passion for solving problems through data and code. I have experience working with Python, machine learning, and software development, and I enjoy creating data-driven projects with real world impacts. I am looking for entry-level opportunities in data science and software engineering.
 
 <!--
 **prebala123/prebala123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
